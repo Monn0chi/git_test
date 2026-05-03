@@ -4,3 +4,6 @@ def greetings(name):
 name = input("Enter your name: ")
 
 print(greetings(name))
+
+
+
